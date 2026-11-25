@@ -159,31 +159,32 @@ SQL Server (T-SQL) · Python (pandas) · Jupyter Notebook · Power BI · Excel
 
 ### 1. Home Page
 
-![1. Home Page](https://github.com/Shiva2202/Customer_Segmentataion_and_Rfm_Analysis/blob/main/01_home.png?raw=true)
+![1. Home Page]((https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/01_home.png?raw=true)
 
 *Landing page with navigation to the Business Overview and RFM Analysis pages and a glossary of key metrics.*
 
 ### 2. Business Overview – Revenue
 
-![2. Business Overview – Revenue](https://github.com/Shiva2202/Customer_Segmentataion_and_Rfm_Analysis/blob/main/02_business_overview_revenue.png?raw=true)
+![2. Business Overview – Revenue](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/02_business_overview_revenue.png?raw=true)
 
 *Revenue performance across the business.*
 
 ### 3. Business Overview – Customers
 
-![3. Business Overview – Customers](https://github.com/Shiva2202/Customer_Segmentataion_and_Rfm_Analysis/blob/main/03_business_overview_customers.png?raw=true)
+![3. Business Overview – Customers](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/03_business_overview_customers.png
+?raw=true)
 
 *Customer base and activity overview.*
 
 ### 4. RFM Analysis – Segments
 
-![4. RFM Analysis – Segments](https://github.com/Shiva2202/Customer_Segmentataion_and_Rfm_Analysis/blob/main/04_rfm_segment.png?raw=true)
+![4. RFM Analysis – Segments](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/04_rfm_segment.png?raw=true)
 
 *Customer segments (Champions, Loyal, At Risk, New, Needs Attention, Lost) based on Recency, Frequency and Monetary scores.*
 
 ### 5. RFM Analysis – Country
 
-![5. RFM Analysis – Country](https://github.com/Shiva2202/Customer_Segmentataion_and_Rfm_Analysis/blob/main/05_rfm_country.png?raw=true)
+![5. RFM Analysis – Country](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/05_rfm_country.png?raw=true)
 
 *Customer value and churn risk by geographic market.*
 

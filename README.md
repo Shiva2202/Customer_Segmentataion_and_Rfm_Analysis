@@ -159,7 +159,7 @@ SQL Server (T-SQL) · Python (pandas) · Jupyter Notebook · Power BI · Excel
 
 ### 1. Home Page
 
-![1. Home Page]((https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/01_home.png?raw=true)
+![1. Home Page](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/01_home.png?raw=true)
 
 *Landing page with navigation to the Business Overview and RFM Analysis pages and a glossary of key metrics.*
 
@@ -171,8 +171,7 @@ SQL Server (T-SQL) · Python (pandas) · Jupyter Notebook · Power BI · Excel
 
 ### 3. Business Overview – Customers
 
-![3. Business Overview – Customers](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/03_business_overview_customers.png
-?raw=true)
+![3. Business Overview – Customers](https://github.com/Shiva2202/Shiva2202-Customer_Segmentataion_and_Rfm_Analysis/blob/main/03_business_overview_customers.png?raw=true)
 
 *Customer base and activity overview.*
 
